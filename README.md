@@ -1,0 +1,1 @@
+# Desenvolvimentos de pipelines baseado em boas práticas de mlops
